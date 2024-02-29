@@ -1,2 +1,4 @@
 # a-tale-of-two-companies
-A repo for simulating business outcomes for two companies-- one that makes decisions based on the mean and one that makes decisions based on the median. See the blog post [here](https://towardsdatascience.com/mean-or-median-choose-based-on-the-decision-not-the-distribution-f951215c1376) for more information.
+This repo contains the underlying code I used in my article [_Mean or median? Choose based on the decision, not the distribution_](towardsdatascience.com/mean-or-median-choose-based-on-the-decision-not-the-distribution-f951215c1376). 
+
+The purpose of this code is to show how following the (misguided) conventional wisdom that the median is a more useful summary statistic than the mean can lead a business to a strategic disadvantage. Please refer to the article for more information.
